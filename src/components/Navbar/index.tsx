@@ -22,19 +22,19 @@ export default function Navbar() {
         },
         {
             url: "/about",
-            label: "Sobre"
+            label: "Pedido"
         },
         {
             url: "/services",
-            label: "Serviços"
+            label: "Cozinha"
         },
         {
             url: "/products",
-            label: "Produtos"
+            label: "Copa"
         },
         {
             url: "/contacts",
-            label: "Contatos"
+            label: "Entrega"
         },
         {
             url: "/admin",
